@@ -9,3 +9,8 @@ body {
 .title {
 	color: green;
 }
+
+.link {
+	color: blue;
+	text-decoration: none;
+}
